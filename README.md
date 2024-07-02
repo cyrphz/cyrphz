@@ -25,7 +25,7 @@
             <h2>Best Projects (Soon) </h2>
             <div class="project">
                 <h3><a href="link to project">Project Name</a></h3>
-                <p>description</p>
+                <p>description soon</p>
             </div>
             <p>For more projects, visit my <a href="https://github.com/cyrphz" target="_blank">full repository</a>!</p>
         </section>
